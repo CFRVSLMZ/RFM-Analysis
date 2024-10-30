@@ -1,4 +1,4 @@
-# RFM-Analyisis
+# RFM-Analysis
 
 📊 RFM analysis (Recency, Frequency, Monetary) is a marketing technique used to understand customer behavior and segment them more accurately. These three criteria allow us to assess customer value and behavior:
 
